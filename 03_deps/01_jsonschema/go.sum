@@ -1,0 +1,4 @@
+github.com/qri-io/jsonpointer v0.0.0-20190212172158-7f104febd1fd h1:A/otcrPitGkmouHBoyuvt7xFMVeGbNq2HLQGMgshdJE=
+github.com/qri-io/jsonpointer v0.0.0-20190212172158-7f104febd1fd/go.mod h1:DnJPaYgiKu56EuDp8TU5wFLdZIcAnb/uH9v37ZaMV64=
+github.com/qri-io/jsonschema v0.0.0-20190304170034-8d0aab861541 h1:03fNJCjKOTPGT0T40hX2UQ3nwq0Zqsl3wFgGwKjtUp4=
+github.com/qri-io/jsonschema v0.0.0-20190304170034-8d0aab861541/go.mod h1:rlnuSZCX0LfkXwEhqARuBp800hH8tKV/EtgeD3yVT8s=
